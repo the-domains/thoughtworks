@@ -1,0 +1,28 @@
+name: ThoughtWorks
+favicon: null
+layout_spectrum: 0.2699880546424538
+typography_spectrum: 0.5054866017308086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6730393813923001
+  lightness: 0.5034180586226285
+  saturation: 0.14420955954119563
+  rhythmicContrast: 0.025775698712095618
+purpose: []
